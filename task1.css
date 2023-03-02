@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Inter";
-    src: url(/assets/fonts/Inter-Regular.ttf)
+    src: url(./assets/fonts/Inter-Regular.ttf)
 }
 
 *{
@@ -21,27 +21,34 @@ h1 {
 
 #h2-1 {
     margin-top: 124px;
+    font-family: "Inter";
 }
 
 
 
 #h2-2 {
     margin-top: 60px;
+    font-family: "Inter";
 }
 
 
 #h2-3{
     margin-top: 131px;
+    font-family: "Inter";
 }
 
 
 #h2-4 {
     margin-top: 152px;
+    font-family: "Inter";
 }
 div {
     margin-left: 39px;
+    font-family: "Inter";
 }
 
 article{
     margin-top: 12px;
+    font-family: "Inter";
 }
+
